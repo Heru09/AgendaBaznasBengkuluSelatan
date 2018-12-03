@@ -1,3 +1,3 @@
 <?php
-echo "Satu dan DUa";
+echo "Satu dan Dua dan Tiga";
 ?>
