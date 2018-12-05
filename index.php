@@ -116,6 +116,9 @@
                         <div class="item">
                             <img class="img-responsive" src="img/RKAT2019.png" alt="">
                         </div>
+                        <div class="item">
+                            <img class="img-responsive" src="img/penyaluran.png" alt="">
+                        </div>
                     </div>
                     <!-- /#main-slider -->
                 </div>
